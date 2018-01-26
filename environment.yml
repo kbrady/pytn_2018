@@ -1,0 +1,21 @@
+name: pytn_viz_2018
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3
+  - jupyter
+  - numpy
+  - pandas
+  - scipy
+  - seaborn>=0.8.1
+  - pip
+  - bokeh
+  - missingno
+  - pydotplus
+  - shapely
+  - descartes
+  - graphviz
+  - requests
