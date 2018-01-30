@@ -9,7 +9,6 @@ dependencies:
   - jupyter
   - numpy
   - pandas
-  - scipy
   - seaborn>=0.8.1
   - pip
   - bokeh
@@ -18,4 +17,3 @@ dependencies:
   - shapely
   - descartes
   - graphviz
-  - requests
