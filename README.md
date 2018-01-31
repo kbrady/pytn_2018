@@ -2,9 +2,15 @@
 
 A workshop from [PyTennessee 2018](https://www.pytennessee.org)
 
+You can go through the tutorial online by **clicking** the following button:
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kbrady/pytn_2018/master)
+
 ## Description
 
-This tutorial covers methods of performing several visualization techniques in Python with a particular focus on non-numerical data. It uses a dataset of Stack Overflow posts from September 2017 compiled from the [Stack Exchange Data Explorer](https://data.stackexchange.com/stackoverflow/query/new). [More](description.md)
+This tutorial covers methods of performing several visualization techniques in Python with a particular focus on exploratory research and data cleaning. It uses a dataset of Stack Overflow posts from the first two weeks of September 2017 compiled from the [Stack Exchange Data Explorer](https://data.stackexchange.com/stackoverflow/query/new).
+
+[...](description.md)
 
 ### Topics Covered
 1. Data Completeness
@@ -18,7 +24,6 @@ This tutorial covers methods of performing several visualization techniques in P
 - [pandas](https://pandas.pydata.org)
 - [seaborn](https://seaborn.pydata.org)
 - [bokeh](https://bokeh.pydata.org/en/latest/)
-- [wordcloud](https://github.com/amueller/word_cloud)
 - [missingno](https://github.com/ResidentMario/missingno)
 - [pydotplus](https://pydotplus.readthedocs.io)
 - [shapely](https://shapely.readthedocs.io/en/latest/)

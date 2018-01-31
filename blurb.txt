@@ -1,0 +1,1 @@
+I will demonstrate the power of visualization to see data in a new way, and how python can display heterogeneous datasets. The talk is organized by data types. It starts off by visualizing missing data, goes through time, text, and spacial data, and finishes with network data. If you would like to follow along, please follow the instructions at https://github.com/kbrady/pytn_2018
