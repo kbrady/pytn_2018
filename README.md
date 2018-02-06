@@ -6,6 +6,8 @@ You can go through the tutorial online by **clicking** the following button:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kbrady/pytn_2018/master)
 
+Be aware that launching this environment online usually takes at least 10 minutes with a good internet connection. If you don't have a good internet connection or don't want to wait that long, go throught the Installing Environment & Dependencies section below.
+
 ## Description
 
 This tutorial covers methods of performing several visualization techniques in Python with a particular focus on exploratory research and data cleaning. It uses a dataset of Stack Overflow posts from the first two weeks of September 2017 compiled from the [Stack Exchange Data Explorer](https://data.stackexchange.com/stackoverflow/query/new).
