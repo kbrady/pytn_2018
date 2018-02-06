@@ -1,6 +1,6 @@
 # Visualizing Everything in Python
 
-A workshop from [PyTennessee 2018](https://www.pytennessee.org)
+A workshop from [PyTennessee 2018](https://www.pytennessee.org/schedule/presentation/187/)
 
 You can go through the tutorial online by **clicking** the following button:
 
