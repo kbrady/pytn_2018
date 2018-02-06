@@ -14,10 +14,10 @@ This tutorial covers methods of performing several visualization techniques in P
 
 ### Topics Covered
 1. Data Completeness
-1. Visualize Time
 1. Text Visualization
-1. Mapping Location
+1. Visualize Time
 1. Visualize Network Connections
+1. Mapping Location
 
 ### Libraries Used
 - [numpy](http://www.numpy.org)
@@ -79,7 +79,10 @@ $:  make show-help
 
 ### Troubleshooting
 
-`xcode-select install`
+If you are trying to install the environment on a mac and get an XCode error, you may need to run
+```
+xcode-select install
+```
 
 ## Acknowledgments
 
