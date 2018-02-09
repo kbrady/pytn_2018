@@ -6,7 +6,7 @@ You can go through the tutorial online by **clicking** the following button:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kbrady/pytn_2018/master)
 
-Be aware that launching this environment online usually takes at least 10 minutes with a good internet connection. If you don't have a good internet connection or don't want to wait that long, go throught the Installing Environment & Dependencies section below.
+Be aware that launching this environment online usually takes at least 10 minutes with a good internet connection. If you don't have a good internet connection or don't want to wait that long, go through the Installing Environment & Dependencies section below (locally installing the environment takes 5 minutes).
 
 ## Description
 
@@ -22,14 +22,11 @@ This tutorial covers methods of performing several visualization techniques in P
 1. Mapping Location
 
 ### Libraries Used
-- [numpy](http://www.numpy.org)
 - [pandas](https://pandas.pydata.org)
 - [seaborn](https://seaborn.pydata.org)
 - [bokeh](https://bokeh.pydata.org/en/latest/)
 - [missingno](https://github.com/ResidentMario/missingno)
 - [pydotplus](https://pydotplus.readthedocs.io)
-- [shapely](https://shapely.readthedocs.io/en/latest/)
-- [descartes](https://bitbucket.org/sgillies/descartes/)
 
 ## Installing Environment & Dependencies
 
@@ -91,4 +88,4 @@ xcode-select install
 Thank you to:
 + [Victor Calderon](https://github.com/vcalderon2009) - for helping me set up the environment
 + [Gayathri Narasimham](https://github.com/gnvandy) - for inspiring me to do this talk and getting me interested in forum data
-+ Rachael Brady - for teaching me the power of visualization and being a guinea pig for this talk
++ [Rachael Brady](https://github.com/rbrady778) - for teaching me the power of visualization and being a guinea pig for this talk

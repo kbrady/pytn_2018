@@ -3,6 +3,7 @@ name: pytn_viz_2018
 channels:
   - defaults
   - conda-forge
+  - damianavila82
 
 dependencies:
   - python=3
@@ -17,3 +18,4 @@ dependencies:
   - shapely
   - descartes
   - graphviz
+  - rise
